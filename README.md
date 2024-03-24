@@ -37,12 +37,6 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 
 <br>
 <br>
-<br>
-<br>
-<br>
-</br>
-</br>
-</br>
 </br>
 </br>
 <div>
@@ -51,9 +45,9 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <div align="center">
 <h3>Where to find me</h3>
 <p>
-<a href="https://github.com/felippegh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/felippegeorge/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://www.instagram.com/felippegh" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+<a href="https://github.com/acfakhri" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/fakhrizul-amri-51bb9520a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.instagram.com/amrifakhri_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 </p>
 </div>
 
