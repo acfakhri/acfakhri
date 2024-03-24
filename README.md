@@ -18,8 +18,8 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 </br>
 </div>
 
-<div>
-<img align="left" alt="GIF" width="30%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<div align="center">
+<img alt="GIF" width="30%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>
 
 <br>
@@ -27,8 +27,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <br>
 <br>
 
-  <div>
-
+<div align="center" >
 - 👨‍💻 All of my projects are available  [here](https://github.com/acfakhri)
 
 - 💬 Ask me about anything <a href="https://github.com/acfakhri"><b>here</b></a>
@@ -36,6 +35,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 - 📫 Also, you may send a nice letter to **acfakhri@gmail.com**
 
 </div>
+
 <br>
 <br>
 <br>
