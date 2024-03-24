@@ -3,7 +3,10 @@
 -->
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, My Name AcFakhri </h1>
-<h3 align="center">A passionate Web Developer from Indonesia <img src="https://commons.wikimedia.org/wiki/File:Flag_of_Indonesia.svg#/media/File:Flag_of_Indonesia.svg" width="25" style="vertical-align: bottom"/>  </h3>
+<h3 align="center">A passionate Web Developer from Indonesia <img src="https://flagcdn.com/16x12/id.png"
+  srcset="https://flagcdn.com/32x24/id.png 2x,
+    https://flagcdn.com/48x36/id.png 3x"
+ width="25" style="vertical-align: bottom"/>  </h3>
 
 <div align="center">
 You have finally discovered my Github profile, I was waiting for you! <br>
@@ -16,7 +19,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 </div>
 
 <div>
-<img align="left" alt="GIF" width="50" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="left" alt="GIF" width="50%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>
 
 <br>
