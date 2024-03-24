@@ -28,8 +28,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <br>
 
 <div>
-- 👨‍💻 All of my projects are available  [here]("https://github.com/acfakhri")
-
+  
 - 💬 Ask me about anything <a href="https://github.com/acfakhri"><b>here</b></a>
 
 - 📫 Also, you may send a nice letter to **acfakhri@gmail.com**
@@ -47,21 +46,6 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 </br>
 </br>
 <div>
-<details>
-<summary align="left">How about some stats?
-<img align="right" src="https://komarev.com/ghpvc/?username=felippegh" alt="felippegh" />
-</summary>
-<p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=felippegh&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippegh&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-</p>
-<p>
-<i>
-*NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.
-</i>
-</p>
-</details>
 </div>
 
 <div align="center">
