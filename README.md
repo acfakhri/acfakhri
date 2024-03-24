@@ -27,8 +27,8 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <br>
 <br>
 
-<div align="center" >
-- 👨‍💻 All of my projects are available  [here](https://github.com/acfakhri)
+<div>
+- 👨‍💻 All of my projects are available  [here]("https://github.com/acfakhri")
 
 - 💬 Ask me about anything <a href="https://github.com/acfakhri"><b>here</b></a>
 
