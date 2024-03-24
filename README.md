@@ -19,7 +19,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 </div>
 
 <div>
-<img align="left" alt="GIF" width="50%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="left" alt="GIF" width="30%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>
 
 <br>
