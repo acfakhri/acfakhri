@@ -31,7 +31,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
   
 - 💬 Ask me about anything <a href="https://github.com/acfakhri"><b>here</b></a>
 
-- 📫 Also, you may send a nice letter to **acfakhri@gmail.com**
+- 📫 Also, you may send a nice letter to **amrifakhrizul@gmail.com**
 
 </div>
 
