@@ -2,7 +2,7 @@
 **felippegh/felippegh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, My Name Fakhrizul Amri </h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hello Developers, My Name Fakhrizul Amri </h1>
 <h3 align="center">A passionate Web Developer from Indonesia <img src="https://flagcdn.com/16x12/id.png"
   srcset="https://flagcdn.com/32x24/id.png 2x,
     https://flagcdn.com/48x36/id.png 3x"
