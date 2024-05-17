@@ -1,4 +1,4 @@
-<!--
+![image](https://github.com/acfakhri/acfakhri/assets/67258877/7723d37d-e38b-4820-9062-1e8132ea2aa2)<!--
 **felippegh/felippegh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
@@ -72,6 +72,7 @@ Feel free to clone/fork projects hehe, raise issues and submit PRs if you think 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
        <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> </a>
        <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png" alt="phpstorm" width="45" height="45"/> </a>
+       <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://icons8.com/icon/uJM6fQYqDaZK/typescript" alt="typescript" width="45" height="45" /></a>
 
 </div>
 
