@@ -72,8 +72,7 @@ Feel free to clone/fork projects hehe, raise issues and submit PRs if you think 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
        <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> </a>
        <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png" alt="phpstorm" width="45" height="45"/> </a>
-      ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
+     
 </div>
 
 <br>
@@ -81,4 +80,4 @@ Feel free to clone/fork projects hehe, raise issues and submit PRs if you think 
 -----
 
 
-Last Edited on: 08/05/2024
+Last Edited on: 18/05/2024
