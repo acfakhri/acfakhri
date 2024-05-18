@@ -1,4 +1,3 @@
-![image](https://github.com/acfakhri/acfakhri/assets/67258877/7723d37d-e38b-4820-9062-1e8132ea2aa2)<!--
 **felippegh/felippegh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
