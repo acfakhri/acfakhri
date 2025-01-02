@@ -1,6 +1,6 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />|| Hello All Developers... || My Name Fakhrizul Amri...  ||</h1>
-<h3 align="center"> ||  A passionate Programmer from Indonesia..  || <img src="https://flagcdn.com/16x12/id.png"
+<h3 align="center"> ||  A passionate Programmer from Indonesia...  || <img src="https://flagcdn.com/16x12/id.png"
   srcset="https://flagcdn.com/32x24/id.png 2x,
     https://flagcdn.com/48x36/id.png 3x"
  width="25" style="vertical-align: bottom"/>...</h3>
