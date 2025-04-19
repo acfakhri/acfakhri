@@ -51,7 +51,7 @@ Feel free to clone/fork projects hehe, raise issues and submit PRs if you think 
 <br/>
 
 <div align="center">
-<h3>Technologies and Tools I use..</h3> 
+<h3>Technologies and Tools I use....</h3> 
 
 <a href="https://laravel.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="45" height="45"/> </a> 
 <a href="https://www.php.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="postman" width="45" height="45"/> </a> 
