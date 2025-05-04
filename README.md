@@ -28,7 +28,7 @@ Feel free to clone/fork projects hehe, raise issues and submit PRs if you think 
   
 - 💬 Ask me about anything <a href="https://github.com/acfakhri"><b>here</b></a>
 
-- 📫 Also,.. you may send a nice letter to **amrifakhrizul@gmail.com**
+- 📫 Also, you may send a nice letter to **amrifakhrizul@gmail.com**
 
 </div>
 
