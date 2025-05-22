@@ -117,7 +117,7 @@
 <!-- ![Snake animation](https://github.com/acfakhri/acfakhri/blob/output/github-contribution-grid-snake.svg) -->
 
 <div>
-  <img src="https://github.com/acfakhri/acfakhri/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/acfakhri/snk/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 
 <!-- ## 📚 &nbsp;My Projects -->
