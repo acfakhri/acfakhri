@@ -104,7 +104,7 @@
 </div>
 
 
-<div align="center">
+<div align="left">
   
   ## 🏆 &nbsp; Git Profile Trophies
  <a href="https://github.com/ryo-ma/github-profile-trophy">
