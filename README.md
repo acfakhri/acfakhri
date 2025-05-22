@@ -1,80 +1,129 @@
-
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hello All....  My Name Fakhrizul Amri...  </h1>
-<h3 align="center"> ||  A passionate Programmer from Indonesia....  || <img src="https://flagcdn.com/16x12/id.png"
-  srcset="https://flagcdn.com/32x24/id.png 2x,
-    https://flagcdn.com/48x36/id.png 3x"
- width="25" style="vertical-align: bottom"/>......</h3>
-
-<div align="center">
-You have finally discovered my Github profile, I was waiting for you!!! <br>
-Feel free to clone/fork projects hehe, raise issues and submit PRs if you think something could be better...<br>
-:))
-<i>Happy Coding!!!</i> 
-</br>
-</br>
-</br>
-</div>
-
-<div align="center">
-<img alt="GIF" width="30%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-</div>
-
-<br>
-<br>
-<br>
-<br>
-
 <div>
-  
-- 💬 Ask me about anything <a href="https://github.com/acfakhri"><b>here</b></a>
+🔴🟡🟢
 
-- 📫 Also, you may send a nice letter to **amrifakhrizul@gmail.com**
+<br>
 
 </div>
 
-<br>
-<br>
-</br>
-</br>
-<div>
-</div>
 
 <div align="center">
-<h3>Where to find me</h3>
-<p>
-<a href="https://github.com/acfakhri" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/fakhrizul-amri-51bb9520a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://www.instagram.com/amrifakhri_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+  <img src="https://raw.githubusercontent.com/gist/acfakhri/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=acfakhri&color=blueviolet" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/acfakhri?tab=followers">
+    <img src="https://img.shields.io/github/followers/acfakhri?style=social" alt="Followers" />
+  </a>
 </p>
+
+
+<div>
+
+  ## 🧭 &nbsp;About Me
+
+  - 📚 Information System student at UFPI.
+  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
+
+  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**, **Flutter** and **Python**.
+
+  - 💬 Ask me about **any technology**.
+
+  - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
+
+  <br>
+  
+
 </div>
 
-<br/>
 
 <div align="center">
-<h3>Technologies and Tools I use....</h3> 
 
-<a href="https://laravel.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="45" height="45"/> </a> 
-<a href="https://www.php.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="postman" width="45" height="45"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://postgres.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="45" height="45"/> </a>   
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> </a>
-   <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-       <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> </a>
-       <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png" alt="phpstorm" width="45" height="45"/> </a>
-     
+  `Developer and IT enthusiast`
+  <br>
+
+  `=========================`
+  <br>
+
+  `¯\_(ツ)_/¯`
 </div>
 
-<br>
 
------
+<div>
+
+  ## 📚 &nbsp;Currently studying
+
+  - Figma
+  - Microservices architecture
+  - Clean architecture
+  - TDD
+
+</div>
 
 
-Last Edited on: 18/05/2024
+<div>
+
+  ## 🛠️ &nbsp;My Tech Stacks
+
+  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
+  ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+  ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=flat&logo=react)&nbsp;
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=flat&logo=kotlin)&nbsp;
+  ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=flat&logo=dart)&nbsp;
+  ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=flat&logo=flutter)&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
+  ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)&nbsp;
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=flat&logo=jupyter)&nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
+
+</div>
+
+
+<div>
+
+  ## 📊 &nbsp;My activities
+  <a href="https://github.com/acfakhri">
+    <img width=450 height=170 align="center" alt="acfakhri" src="https://github-readme-stats.vercel.app/api?username=acfakhri&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/acfakhri">
+    <img align="center" alt="acfakhri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acfakhri&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+</div>
+
+<div>
+
+  ## 📫 &nbsp;My Contacts
+
+  <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
+  [![LinkedIn Badge](https://img.shields.io/badge/-Fakhrizul_Amri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fakhrizulamri/)](https://www.linkedin.com/in/fakhrizulamri/)&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/-amrifakhrizul@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:amrifakhrizul@gmail.com)&nbsp;
+  [![Instagram Badge](https://img.shields.io/badge/-amrifakhri_-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/amrifakhri_/)&nbsp;
+  [![Twitter Badge](https://img.shields.io/badge/-acfakhri-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/acfakhri)&nbsp;
+  [![AniList Badge](https://img.shields.io/badge/-acfakhri-C063FF?style=flat-square&logo=Anilist&logoColor=white)](https://anilist.co/user/acfakhri/)
+
+</div>
+
+
+<!-- ![Snake animation](https://github.com/acfakhri/acfakhri/blob/output/github-contribution-grid-snake.svg) -->
+
+<div>
+  <img src="https://github.com/acfakhri/acfakhri/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
+
+<!-- ## 📚 &nbsp;My Projects -->
+
+
+------
+Credits: [Pepyn0](https://github.com/acfakhri)
+
+Last Edited on: 26/05/2022
