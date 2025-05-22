@@ -111,6 +111,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=acfakhri&layout=compact&theme=algolia" alt="acfakhri" />
  </a>
 </p>
+</div>
 
 <div>
 
