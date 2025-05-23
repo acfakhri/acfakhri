@@ -105,7 +105,10 @@
   ![Vue.js](https://img.shields.io/badge/Vue.js-black?logo=vue.js)
   ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
   ![ComponentOne](https://img.shields.io/badge/ComponentOne-black?logo=componentone)
-
+  ![Git](https://img.shields.io/badge/Git-black?logo=git)
+  ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+  ![Postman](https://img.shields.io/badge/Postman-black?logo=postman)
+  
 
 
 
@@ -161,4 +164,4 @@
 ------
 Credits: [Pepyn0](https://github.com/acfakhri)
 
-Last Edited on: 26/05/2022
+Last Edited on: 26/05/2025
