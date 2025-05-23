@@ -87,7 +87,12 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
-  ![.NET](https://img.shields.io/badge/.NET-6.0-blueviolet?logo=dotnet&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-8.0-blue?logo=dotnet&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-8.0-239120?logo=c-sharp&logoColor=white)
+  ![VB6](https://img.shields.io/badge/VB6-Legacy-blue?logo=visualbasic&logoColor=white)
+  ![VB.NET](https://img.shields.io/badge/VB.NET-Framework-blueviolet?logo=dotnet&logoColor=white)
+  ![ASP.NET](https://img.shields.io/badge/ASP.NET-WebApp-512BD4?logo=dotnet&logoColor=white)
+
 
 
 </div>
