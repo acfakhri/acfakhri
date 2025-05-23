@@ -99,6 +99,12 @@
   ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss)
   ![SQL Server](https://img.shields.io/badge/SQL%20Server-black?logo=microsoftsqlserver)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?logo=visualstudio)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-black?logo=kotlin)
+  ![Flutter](https://img.shields.io/badge/Flutter-black?logo=flutter)
+  ![React Native](https://img.shields.io/badge/React_Native-black?logo=react)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-black?logo=vue.js)
+
 
 
 
