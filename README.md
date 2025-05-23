@@ -103,6 +103,8 @@
   ![Kotlin](https://img.shields.io/badge/Kotlin-black?logo=kotlin)
   ![Flutter](https://img.shields.io/badge/Flutter-black?logo=flutter)
   ![Vue.js](https://img.shields.io/badge/Vue.js-black?logo=vue.js)
+  ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
+  ![ComponentOne](https://img.shields.io/badge/ComponentOne-black?logo=componentone)
 
 
 
