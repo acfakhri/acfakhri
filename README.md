@@ -143,11 +143,12 @@
   ## 📫 &nbsp;My Contacts
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Fakhrizul_Amri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fakhrizulamri/)](https://www.linkedin.com/in/fakhrizulamri/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-amrifakhrizul@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:amrifakhrizul@gmail.com)&nbsp;
-  [![Instagram Badge](https://img.shields.io/badge/-amrifakhri_-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/amrifakhri_/)&nbsp;
-  [![Twitter Badge](https://img.shields.io/badge/-acfakhri-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/acfakhri)&nbsp;
-  [![AniList Badge](https://img.shields.io/badge/-acfakhri-C063FF?style=flat-square&logo=Anilist&logoColor=white)](https://anilist.co/user/acfakhri/)
+
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amrifakhri_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fakhrizulamri/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/acfakhri)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrifakhrizul@gmail.com)
+
 
 </div>
 
