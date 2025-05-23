@@ -88,17 +88,18 @@
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
   ![.NET](https://img.shields.io/badge/.NET-black?logo=dotnet&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-black?logo=dotnet&logoColor=white)
-  ![VB6](https://img.shields.io/badge/VB6-black?logoColor=white)
-  ![VB.NET](https://img.shields.io/badge/VB.NET-black?logo=dotnet&logoColor=white)
-  ![ASP.NET](https://img.shields.io/badge/ASP.NET-black?logo=dotnet&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-black?logo=php&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-black?logo=laravel&logoColor=white)
-  ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-black?logo=codeigniter&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss&logoColor=white)
-  ![SQL Server](https://img.shields.io/badge/SQL%20Server-black?logo=microsoftsqlserver&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?logo=visualstudio&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-black?logo=dotnet)
+  ![VB6](https://img.shields.io/badge/VB6-black)
+  ![VB.NET](https://img.shields.io/badge/VB.NET-black?logo=dotnet)
+  ![ASP.NET](https://img.shields.io/badge/ASP.NET-black?logo=dotnet)
+  ![PHP](https://img.shields.io/badge/PHP-black?logo=php)
+  ![Laravel](https://img.shields.io/badge/Laravel-black?logo=laravel)
+  ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-black?logo=codeigniter)
+  ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
+  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss)
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-black?logo=microsoftsqlserver)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?logo=visualstudio)
+
 
 
 
