@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/acfakhri/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
+  <img src="https://raw.githubusercontent.com/acfakhri/image-resources/blob/2db0d523363dade6b5ed6b612a1b4c06c5291a18/Group1.png" alt="Card header"/>
 </div>
 
 <p align="center">
