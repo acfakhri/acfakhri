@@ -137,8 +137,8 @@
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-        <a href="https://github.com/acfakhri/my-portfolio">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=acfakhri&repo=my-portfolio&theme=nightowl&show_owner=true" alt="My PortFolio" />
+        <a href="https://github.com/acfakhri/ac-nodejs-api">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=acfakhri&repo=ac-nodejs-api&theme=nightowl&show_owner=true" alt="Node JS Api" />
         </a>
     </td>
     <td width="50%">
