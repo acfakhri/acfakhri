@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/acfakhri/image-resources/blob/main/Group1.png" alt="Card header"/>
+  <img src="https://raw.githubusercontent.com/acfakhri/image-resources/refs/heads/main/Group1.png" alt="Card header"/>
 </div>
 
 <p align="center">
