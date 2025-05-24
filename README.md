@@ -130,14 +130,14 @@
 </div>
 
 <div>
-  ## 📈 &nbsp;My Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 
+  ## 📈 &nbsp;My Contribution Stats
   <a href= "https://github.com/acfakhri" align="center">
-    <img align= "center"  src="https://github-readme-activity-graph.vercel.app/graph?username=acfakhri&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img align= "center" alt="acfakhri"  src="https://github-readme-activity-graph.vercel.app/graph?username=acfakhri&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" >
   </a>
 </div>
 
+
 <div align="left">
-  
   ## 🏆 &nbsp; Git Profile Trophies
  <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=acfakhri&layout=compact&theme=algolia" alt="acfakhri" />
