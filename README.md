@@ -118,7 +118,7 @@
 </div>
 <div>
 
-  ## 📊 &nbsp;My activities
+  ## 📊 &nbsp;My Activities
   <table width="100%">
   <tr>
     <td width="50%">
