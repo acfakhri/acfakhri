@@ -22,9 +22,11 @@
         <br>
         <p>
             <strong>
-                Hi, I’m Fakhrizul Amri — but you can call me Amri. I’m a passionate Full Stack Web Developer with a strong dedication to building modern, scalable, and efficient web applications from end to end..<br><br>
-                I specialize in .NET Core and Microsoft SQL Server and I have experience working with that. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
+              <p>
+                Hi, I’m Fakhrizul Amri — but you can call me Amri. I’m a passionate Full Stack Web Developer with a strong dedication to building modern, scalable, and efficient web applications from end to end..
+                I specialize in .NET Core and Microsoft SQL Server and I have experience working with that. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.....
+            </p>
             </strong>
         </p>
         <ul>
