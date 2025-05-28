@@ -27,6 +27,7 @@
                 I specialize in .NET Core and Microsoft SQL Server and I have experience working with that. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.....
             </p>
+              <br> <br>
             </strong>
         </p>
         <ul>
