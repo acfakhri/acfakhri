@@ -109,12 +109,9 @@
   ![Postman](https://img.shields.io/badge/Postman-black?logo=postman)
   
 
-
-
-
-
-
 </div>
+
+
 <div>
 
   ## 📊 &nbsp;My Activities
@@ -149,13 +146,17 @@
   </tr>
 </table>
 </div>
+
+
 <div>
   
   ## 📈 &nbsp;My Contribution Stats
   <a href= "https://github.com/acfakhri" align="center">
     <img align= "center" alt="acfakhri"  src="https://github-readme-activity-graph.vercel.app/graph?username=acfakhri&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" >
   </a>
+
 </div>
+
 
 <div align="left">
   
@@ -167,6 +168,8 @@
 
 <div>
 
+
+  
   ## 📫 &nbsp;My Contacts
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
