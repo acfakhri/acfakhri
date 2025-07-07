@@ -165,7 +165,7 @@
   
   ## 🏆 &nbsp; Git Profile Trophies
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  [<img src="https://github-profile-trophy.vercel.app/?username=acfakhri&layout=compact&theme=algolia" alt="acfakhri" />](https://github-profile-trophy.vercel.app/?username=acfakhri&theme=dark)
+  <img src="https://github-profile-trophy.vercel.app/?username=acfakhri&theme=dark" alt="acfakhri" />
  </a>
 </div>
 
