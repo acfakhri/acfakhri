@@ -76,14 +76,10 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
   ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
-  ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=flat&logo=react)&nbsp;
   ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=flat&logo=kotlin)&nbsp;
   ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=flat&logo=dart)&nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=flat&logo=flutter)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
-  ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)&nbsp;
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=flat&logo=jupyter)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
@@ -102,9 +98,7 @@
   ![SQL Server](https://img.shields.io/badge/SQL%20Server-black?logo=microsoftsqlserver)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?logo=visualstudio)
   ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-black?logo=kotlin)
   ![Flutter](https://img.shields.io/badge/Flutter-black?logo=flutter)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-black?logo=vue.js)
   ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
   ![ComponentOne](https://img.shields.io/badge/ComponentOne-black?logo=componentone)
   ![Git](https://img.shields.io/badge/Git-black?logo=git)
